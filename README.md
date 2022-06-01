@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Héctor Fontenla</h1>
-<h3 align="center">Data Analyst, bootcamp graduate, fast learner, challenge hungry, tech geek, video game enthusiast, music and travel lover.</h3>
+<h3 align="center">Data Analyst📈, Bootcamp graduate🎓, fast learner⚡, challenge hungry💪‍, tech geek🤖, video game enthusiast🎮, music🎸 and travel lover🌍.</h3>
 
 - 🌱 I’m currently learning **Python, Machine Learning, Power BI**
 
