@@ -9,7 +9,10 @@
 
 - 📄 Know about my experiences [https://bit.ly/hector-fontenla_cv](https://bit.ly/hector-fontenla_cv)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
+
+- https://www.linkedin.com/in/hmartinfa/ 
+
 <p align="left">
 </p>
 
