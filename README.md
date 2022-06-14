@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hectorfa17](https://github.com/hectorfa17)
 
-- 📫 How to reach me **hectorm.fontenla@gmail.com**
+- 📫 How to reach me: **hectorm.fontenla@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/hector-fontenla_cv](https://bit.ly/hector-fontenla_cv)
 
