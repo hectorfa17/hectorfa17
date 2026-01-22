@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: **hectorm.fontenla@gmail.com**
 
-- 📄 Get my resume: [https://bit.ly/hector-fontenla_cv](https://bit.ly/hector-fontenla_cv)
-
 <h3 align="left">🔗 Connect with me:</h3>
 
 - https://www.linkedin.com/in/hmartinfa/ 
